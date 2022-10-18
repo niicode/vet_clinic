@@ -15,7 +15,7 @@ This repository includes files with plain SQL that can be used to recreate a dat
 
 ## Authors
 
-👤 **Author1**
+👤 **Author**
 
 - GitHub: [@niicode](https://github.com/niicode)
 - Twitter: [@_niicode](https://twitter.com/_niicode)
